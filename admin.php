@@ -2,8 +2,8 @@
 <?php
 require 'connect.ini.php';
 session_start();
-$adus1='admin0581';
-$pwus1='qwer1234';
+$adus1='';
+$pwus1='';
 ?>
 
 <!DOCTYPE html>
