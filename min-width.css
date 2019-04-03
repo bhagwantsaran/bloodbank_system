@@ -1,0 +1,81 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+
+.tipnewscontainer {
+  margin: 0 auto;
+  background: WHITE;
+  padding: 10px ;
+
+  box-sizing: border-box; }
+
+.tipnewscontainer {
+  width: 1210px;
+  *zoom: 1; }
+  .tipnewscontainer:before, .tipnewscontainer:after {
+    content: " ";
+    display: table; }
+  .tipnewscontainer:after {
+    clear: both; }
+
+
+
+
+
+
+  .belowslideshowitem1 {
+  display: inline-block;
+  width: 45%;
+  margin: 2%;
+
+float:left;
+  height: 300px;
+ 
+  min-width: 150px; }
+   .belowslideshowitem {
+  display: inline-block;
+  margin-top: 0px;
+   margin-right: -60px;
+  width: 51%;
+  border-left:3px solid black;
+float:left;
+  height: 110%;
+  padding-bottom: 10px;
+background:#AED6F1;
+  min-width: 150px; }
+
+
+.countitem1 {
+
+  display: inline-block;
+  background: #D6DBDF;
+  width: 69%;
+ 
+ 
+float:left;
+  height: 300px;
+
+
+
+  min-width: 150px; }
+  .countitem {
+  display: inline-block;
+    background: #D6DBDF;
+  width: 35%;
+
+  margin-right: -5%;
+float:left;
+  height: 300px;
+  border-left:3px solid black;
+  
+  min-width: 150px; }
+  	.count{ 
+	margin:28px;
+  color:black;
+  
+  
+}
+@media (max-width: 600px) {
+  .tipnewscontainer {
+    width: auto; }
+
+   }
