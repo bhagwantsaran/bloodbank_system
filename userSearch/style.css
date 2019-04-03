@@ -1,0 +1,257 @@
+@import 'http://fonts.googleapis.com/css?family=Alegreya+Sans';
+*{
+	margin:0;
+	padding:0;
+	bolder:0;
+}
+
+body{
+	background:white;
+	color:'Alegreya',sans-serif;
+	margin:0;}
+
+
+
+	h1{
+		
+		padding:20px;
+	}	
+
+#header-inner{
+	max-width:1200px
+	margin:0 auto;
+}
+
+	 
+
+nav{
+	
+	background:#051B2A;
+padding:10px  0 10px 0 }
+a:hover#menu-icon{ border-radius:4px 4px 0 0;}
+ul{
+	list-style-type:none;
+	}
+nav ul li{ 
+
+	font-family:'Alegreya',sans-serif;
+font-size:80%; 
+	display:inline-block;
+	
+	padding:10px;
+}
+nav ul li a {
+
+	text-decoration:none;
+color:white;
+}
+div.my{
+	
+	 margin-left:100px;
+	 margin-right:100px;
+	
+	color:white;
+height:500px;
+	}
+	
+	.slideshow{
+	
+	  border-style: solid;
+    border-width: 5px 0 0 0;
+	 border-color:black;
+	
+	 	color:white;
+
+	}
+div.tipnewsdiv{
+	
+	 
+	 background-color:red;
+	color:white;
+padding:150px;
+
+	}
+	.scrollingnews{
+		
+	
+	height: auto;
+float:left;
+    margin-top:-10%;
+	margin-left:10%;
+	 width:25%;
+	 background-color:green;
+	color:white;
+padding:70px ;
+
+	}
+	.scrollingtip{
+		
+	
+	height: auto;
+float:left;
+   margin-top:-10%;
+	margin-left:10%;
+	 width:25%;
+	 background-color:green;
+	color:white;
+padding:70px ;
+
+	}
+	.stext{
+		padding:20px;
+	margin-left:-100px;
+
+	}
+
+	
+     
+    #drop{
+	
+	margin-left:-37px; float:left; width:120px; padding:0 10px 0 40px; height:120px;
+}#textd{	color:black;
+		text-decoration:none;
+}
+#heading{
+	color:red;
+font-family:Showcard Gothic;
+		padding:50px 25px ;
+}
+	 .mainlogo{
+		
+	 MARGIN-left:100px;
+	 margin-right:100px;
+	  
+}
+.i1{
+	margin:40px 0 0 0;
+	float:left;
+	width:40%;
+}
+.i2{
+	
+	
+	margin:90px  35% 0 35%;
+
+	width:50%;
+	
+}
+#textd{
+		text-decoration:none;
+}
+#heading{
+
+		padding:50px 25px ;
+}
+.LINE{
+
+
+	border-left: 1.5px solid rgba(255,255,255,.3);
+padding-left:35px;
+padding-right:5px;
+}
+.noline{
+	visibility:none;
+}
+
+
+/*drodowndiv */
+.dropbtn {
+  background:#051B2A;
+    color: white;
+    padding: 14px 60px;
+    font-size: 16px;
+	width:200px;   border-radius:5px;
+    border: none;
+    cursor: pointer;
+	margin-top:38px;
+	margin-right:20px;
+	
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2ECC71;
+	
+}
+.dropbtn1:hover, .dropbtn1:focus {
+    background-color: #2ECC71;
+	
+}
+.dropbtn1 {
+  background:#051B2A;
+    color: white;
+    padding: 14px 60px;
+    font-size: 16px;
+	width:200px;
+    border: none;
+    cursor: pointer;
+	margin-top:38px;   border-radius:5px;
+	margin-right:20px;
+	
+}
+
+
+.dropdown {
+    float: right;
+    position: relative;
+    display: inline-block;
+    
+}
+.dropdown1 {
+    float: right;
+    position: relative;
+    display: inline-block;
+    
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+width:200px;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    right: 0;
+    z-index: 1;
+	margin-right:20px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+	width:200px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    right: 0;
+    z-index: 1;
+	margin-right:20px;
+}
+
+.dropdown-content1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #2ECC71}
+.dropdown1 a:hover {background-color: #2ECC71}
+
+.show {display:block;}
+
+.show1 {display:block;}
+
+
+
+
+
+
